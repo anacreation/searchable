@@ -1,0 +1,13 @@
+{
+    "name": "anacreation/searchable",
+    "description": "Searable traits",
+    "type": "lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xavier Au",
+            "email": "xavier.au@anacreation.com"
+        }
+    ],
+    "require": {}
+}
