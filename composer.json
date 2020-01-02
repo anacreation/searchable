@@ -9,5 +9,13 @@
             "email": "xavier.au@anacreation.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.1",
+        "illuminate/database": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anacreation\\Searchable\\": "src/"
+        }
+    }
 }
